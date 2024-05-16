@@ -17,7 +17,7 @@
 	<meta name="format-detection" content="telephone=no">
 	
 	<!-- PAGE TITLE HERE -->
-	<title>W3CRM Customer Relationship Management</title>
+	<title>CRM Project</title>
 	
 	<!-- FAVICONS ICON -->
 	<link rel="shortcut icon" type="image/png" href="{{asset('assets/images/favicon.png')}}">
